@@ -2,12 +2,7 @@
     --text-color-span: Roboto, -apple-system, BlinkMacSystemFont, Roboto, 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif, "Segoe UI", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
-body {
-    display: grid;
-    place-items: center;
-    height: 100vh;
-    /*background:#f5f5f5;*/
-}
+
 
 button  {
     padding: 5px 14px !important;
